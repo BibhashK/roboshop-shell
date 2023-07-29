@@ -14,3 +14,4 @@ vim /etc/nginx/default.d/roboshop.conf
 echo -e "\e[33m restart nginx \e[0m"
 systemctl enable nginx
 systemctl restart nginx
+ā
